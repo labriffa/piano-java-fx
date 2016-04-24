@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css?family=Chewy")
+
+.root {
+-fx-font-weight: bold;
+-fx-font-size: 20px;
+-fx-font-family: 'Chewy', cursive;
+}
+
+.piano {
+-fx-background-image: url("http://www.thestringsclub.org/assets/layout/background.jpg");
+-fx-cursor: hand;
+}
+
+.button {
+-fx-background-color: #171717;
+-fx-padding: 20px;
+-fx-border-color: black;
+-fx-border-width: 2px;
+-fx-border-style: dashed;
+-fx-text-fill: white;
+-fx-cursor: hand;
+}
+
+.recording {
+-fx-background-color: yellow;
+-fx-text-fill: black;
+-fx-border-color: yellow;
+}
+
+#melodyListView {
+-fx-background-color: black;
+}
+
+.list-cell {
+-fx-font-size: 17px;
+-fx-background-color: #171717;
+-fx-border-color: #1a1a1a;
+-fx-text-fill: white;
+}
+
+.list-cell:hover {
+-fx-text-fill: black;
+-fx-background-color: yellow;
+-fx-cursor: hand;
+}
+
+.scroll-bar:vertical {
+-fx-background-color: #171717;
+}
+
+.increment-button:hover, .decrement-button:hover {
+-fx-background-color: #171717;
+}
+
+#status {
+-fx-font-size: 24px;
+}
+
+#deleteMelodyBtn {
+-fx-background-color: red;
+-fx-border-color: darkred;
+}
+
+.combo-box {
+-fx-padding: 17px;
+-fx-background-color: #171717;
+}
+
+.combo-box-popup .list-view .list-cell {
+-fx-padding: 17px;
+-fx-background-color: #171717;
+}
+
+.combo-box-popup .list-view .list-cell:hover {
+-fx-text-fill: black;
+-fx-background-color: yellow;
+-fx-cursor: hand;
+}
+
+.teacher-pane {
+-fx-background-color: #E8E8EE;
+}
+
+.chart {
+-fx-background-color: #E8E8EE;
+}
+
+#actionTeacherBorderPane {
+-fx-background-color: #c5c5d3;
+}
+
+#status {
+-fx-font-size: 30px;
+}
