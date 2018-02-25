@@ -1,4 +1,4 @@
-# Piano_JavaFX
+# piano-java-fx
 
 Written as part of my second year Software Architectures studies at the University of Salford. 
 
