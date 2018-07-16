@@ -10,3 +10,6 @@ The application allows users to:
   - Play prexisting songs from a list of predifined melodies
   - View their progress using visually engaging graphs
   - Record their own melodies and play them back at a later date
+
+![alt text](https://res.cloudinary.com/dj7k0lade/image/upload/v1531765358/github/piano-kids.png)
+
